@@ -1,8 +1,11 @@
 ---
-title: "My First Post"
-date: 2020-01-15T18:37:19-06:00
+title: My First Post
+date: 2020-01-16T00:37:19.000+00:00
 showDate: true
+tags:
+- blog
+- story
 draft: true
-tags: ["blog","story"]
----
 
+---
+this is a test post
